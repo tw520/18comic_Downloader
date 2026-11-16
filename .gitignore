@@ -1,0 +1,9 @@
+downloads/
+__pycache__/
+*.py[cod]
+settings.json
+download.log
+build/
+dist/
+.venv/
+venv/
